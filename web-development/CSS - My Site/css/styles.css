@@ -1,0 +1,65 @@
+
+body{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.blue{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+}
+
+.red{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  bottom: 400px;
+  left: 400px;
+}
+
+.Pro{
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.yellow{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  bottom: 200px;
+  left: 200px;
+}

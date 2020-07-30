@@ -1,0 +1,28 @@
+body{
+  background-color: white;
+}
+
+h1 {
+  color: #1e90ff;
+}
+
+h2 {
+  color: #1e90ff;
+}
+
+h3 {
+  color: #1e90ff;
+}
+
+h4 {
+  color: #1e90ff;
+}
+
+hr {
+  background-color: inherit;
+  border-style: dotted none none none;
+  border-spacing: 100px;
+  border-color: #696969;
+  border-width: 5px;
+  width: 30px;
+}
